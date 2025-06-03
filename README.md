@@ -1,1 +1,2 @@
 # Real-Time-corner-detection-using-MATLAB-
+Corner detection is a fundamental task in computer vision and image processing, with applications ranging from object recognition to tracking and navigation. The ability to accurately and efficiently detect corners in real-time is crucial for various fields such as robotics, augmented reality, and autonomous vehicles. This project focuses on the development and implementation of a real-time corner detection algorithm using MATLAB.
